@@ -1,9 +1,10 @@
 This is where we put content for the first file that we are pushing and then committing to the new repository.
 
 Here i added another line using nano, just for giggles.
-Adding new stujff to this file.
+Adding new stuff to this file. Corrected stuff.
 
 # added this line using code
 I see that the changes were automagically loaded into code even with the file open. So I'm going to add this to the file.
 
 This is the end of this file.
+More stuff.
